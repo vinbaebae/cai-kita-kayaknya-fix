@@ -1,0 +1,8 @@
+
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f7fa; }
+.nav { display: flex; flex-wrap: wrap; justify-content: center; background: #007bff; padding: 10px; }
+.nav a { color: white; text-decoration: none; margin: 5px; font-weight: bold; }
+.container { max-width: 800px; margin: 20px auto; padding: 20px; }
+.section { background: white; padding: 20px; border-radius: 10px; }
+button { padding: 10px; border: none; background: #28a745; color: white; font-weight: bold; border-radius: 8px; cursor: pointer; }
+input[type="text"] { padding: 8px; width: 100%; max-width: 300px; }
